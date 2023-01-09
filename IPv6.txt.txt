@@ -1,6 +1,6 @@
 (1)
 MACアドレス:AAAA.AAAA.AAAA
-インターフェースID:A8 AA AA FF FE 11 AA AA AA
+インターフェースID:A8 AA AA FF FE AA AA AA
 
 (2)
 MACアドレス:9876.5432.10FE
